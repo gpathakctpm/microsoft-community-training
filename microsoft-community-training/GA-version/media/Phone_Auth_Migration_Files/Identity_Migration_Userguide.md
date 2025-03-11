@@ -111,7 +111,7 @@ This is for scenarios where you would like the learners to migrate their identit
 
     A.  Community Training  does not support multiple identities for same leaners so learner needs to pick one identity.
 
-3.  Will The website home page (landing page) message will be shown to all users?  
+3.  Will the website home page (landing page) message will be shown to all users?  
 
     A.  Yes! Until migration is completed, this will be shown to all the users until the learner select the “Do not show again” check box on the message.
 
