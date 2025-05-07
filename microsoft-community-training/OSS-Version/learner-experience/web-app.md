@@ -29,7 +29,7 @@ This article explains how learners can access the training content using the web
 
 2. The fields displayed on the profile page  are configured by the administrator. For more details, see [**this article**](../settings/add-additional-profile-fields-for-user-information.md).
 
-    :::image type="content" source="../media/MCT Complete your profile.png" alt-text="MCT Profile Completion":::
+    :::image type="content" source="C:\19 GP OSS CT docs\microsoft-community-training\microsoft-community-training\OSS-Version\media\OSS edit profile.png" alt-text="MCT Profile Completion":::
 
 3. Complete the profile information and click  on **Get Started**.
 
