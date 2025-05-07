@@ -29,17 +29,14 @@ This article explains how learners can access the training content using the web
 
 2. The fields displayed on the profile page  are configured by the administrator. For more details, see [**this article**](../settings/add-additional-profile-fields-for-user-information.md).
 
-    :::image type="content" source="C:\19 GP OSS CT docs\microsoft-community-training\microsoft-community-training\OSS-Version\media\OSS edit profile.png" alt-text="MCT Profile Completion":::
-
 3. Complete the profile information and click  on **Get Started**.
 
 ### For existing users
 
 1. Click on the profile icon on top right corner of the learner view page.
-    :::image type="content" source="../media/Profile Field - edit from learner view 1.PNG" alt-text="Edit from learner view":::
 
 2. Modify the profile field(s) as required
-    :::image type="content" source="../media/Profile Field - edit from learner view 2.PNG" alt-text="Edit profile field":::
+
 
     >[!Tip]
     >You can now search for the relevant value from a long list of profile field values the Admin has provided. For example, you can search your city name from a list of all cities in your country/region.
